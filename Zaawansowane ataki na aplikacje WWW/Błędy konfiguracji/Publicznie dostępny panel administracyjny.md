@@ -6,7 +6,7 @@ Użyjemy narzędzia wpscan, a jako listę haseł użyjemy 10k-most-common z Secl
 ![Screenshot from 2024-05-25 13-01-21](https://github.com/s24306/Cyberskiller/assets/91730770/e6a881d4-9653-4392-a72a-2c3dea335fe0)
 
 Po niecałych dwóch minutach udaje nam się znaleźć hasło.  
-Login: CyberSkiller Hasło: night
+Login: CyberSkiller Hasło: night  
 ![Screenshot from 2024-05-25 13-02-07](https://github.com/s24306/Cyberskiller/assets/91730770/c20f418e-eb8b-4bec-b0a9-dfd5023f739a)
 
 Dashboard wraz z flagą  
