@@ -1,0 +1,2 @@
+W ramach zadania dostajemy dostęp do web serwera. Wiemy, że plik secret.txt znajduje się w jednym z podkatalogów katalogu głównego serwera.  
+Sprawdzamy podkatalogi za pomocą gobustera  
