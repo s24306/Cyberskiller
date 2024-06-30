@@ -15,6 +15,6 @@ Przy "CS2" dostajemy informację zwrotną, iż hasło z takim ciągiem znaków i
 ![image](https://github.com/s24306/Cyberskiller/assets/91730770/bfe9c520-b355-4e2d-aa37-a3cb2ea9d2d0)
 
 Na tym etapie nie pozostaje nam nic innego, jak:  
-a) Wstukiwać po jednej cyfrze i sprawdzać czy trafiliśmy
+a) Wstukiwać po jednej cyfrze i sprawdzać czy trafiliśmy  
 b) zautomatyzować proces np. za pomocą pythona  
 Gdy uzyskamy CS i ciąg 10 cyfr, które istnieje w systemie - to odpowiedź do zadania
